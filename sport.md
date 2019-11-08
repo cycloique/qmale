@@ -21,5 +21,5 @@ permalink: /sport/
 - July 15: "Raid Absolu" - raid (1/2d) - Payolle, France
 # 2017
 - Oct. 21: half marathon of Toulouse - half marathon (21k) - Toulouse, France
-- Sept. 11-16: "La route des grandes Alpes" by bicycle - bike (700k) - From Geneva, Switzerland to Menton, France
+- Sept. 11-16: "La route des grandes Alpes" bikepacking - bike (700k) - From Geneva, Switzerland to Menton, France
 - Sept. 3rd: Half marathon of Cancale / St-Malo - half marathon (21k) - Cancale, France
