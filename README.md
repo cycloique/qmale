@@ -1,1 +1,2 @@
-# Your site is published at https://cycloique.github.io/qmale/
+# website
+https://cycloique.github.io/website/
