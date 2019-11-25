@@ -5,6 +5,7 @@ permalink: /sport/
 ---
 
 # 2019
+- Nov. 24: half marathon Lourdes Tarbes - half marathon (21k) - Lourdes, France
 - Oct. 27: "La ronde des toupies" - trail (12.5k) - Lahitte-Toupière, France
 - July 6: half-Altriman - triathlon L (1.8k/100k/21k) - Les Angles, France
 - June 23: "Raid Tout Absolu" - raid (1/2d) - Fenouillet, France
