@@ -5,6 +5,7 @@ permalink: /sport/
 ---
 
 # 2020
+- Oct. 28: "La Ronde Castraise" - bike (140k) - Castres, France
 - Feb. 23: "Challenge de la Clape" - (30k bike TT/10k run) - Narbonne Plage, France
 
 # 2019
