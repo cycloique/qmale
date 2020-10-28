@@ -9,7 +9,7 @@ permalink: /sport/
 - Feb. 23: "Challenge de la Clape" - (30k bike TT/10k run) - Narbonne Plage, France
 
 # 2019
-- Dec. 1: Launag'Etoile - 10k - Launaguet, France
+- Dec. 1: Launag'Etoile - run (10k) - Launaguet, France
 - Nov. 24: half marathon Lourdes Tarbes - half marathon (21k) - Lourdes, France
 - Oct. 27: "La ronde des toupies" - trail (12.5k) - Lahitte-Toupière, France
 - July 6: half-Altriman - triathlon L (1.8k/100k/21k) - Les Angles, France
